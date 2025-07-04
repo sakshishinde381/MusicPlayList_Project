@@ -3,6 +3,9 @@
 A Java Swing GUI-based application to manage and play MP3 songs.
 You can add, shuffle, and play songs from your custom playlist — built using Java, Swing, and JLayer (jl1.0.1.jar).
 
+## Interface Preview
+![ui preview ](image.png)
+
 ## 📌 Features
 
 - 🎧 Add songs with **title**, **artist**, and **file path**
